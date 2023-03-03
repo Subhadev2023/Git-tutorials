@@ -1,1 +1,1 @@
-It is the utility functions of the software.
+It is the utility functions of the software for change.
